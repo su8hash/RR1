@@ -17,7 +17,7 @@ export default class RR extends Component {
           To get started, edit me
         </Text>
         <Text style ={stles.instructions}>
-          Hu ha
+          Hu ha he
         </Text>
         <Text style={styles.instructions}>
           Double tap R on your keyboard to reload
