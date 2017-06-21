@@ -17,7 +17,7 @@ export default class RR extends Component {
           To get started, edit me Ohh Somebody Just edited me 
         </Text>
         <Text style={styles.instructions}>
-          Double tap R on your keyboard to reload
+         tap R on your keyboard to reload
         </Text>
       </View>
     );
